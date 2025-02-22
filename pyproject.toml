@@ -1,11 +1,11 @@
 [project]
-name = "git-train-3"
+name = "Git_train_3"
 version = "0.1.0"
 description = ""
 authors = [
     {name = "SergejGorshkov",email = "gorshkovserg@gmail.com"}
 ]
-readme = "README.md"
+readme = ""
 requires-python = ">=3.13"
 dependencies = [
 ]
